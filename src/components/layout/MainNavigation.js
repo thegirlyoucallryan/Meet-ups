@@ -3,7 +3,7 @@ import { useContext } from 'react';
 import FavoritesContext from '../../pages/store/favorites-context';
 
 import classes from './MainNavigation.module.css'
-import FavoritesPage from '../../pages/Favorites';
+
 
 
 function MainNavigation() {
